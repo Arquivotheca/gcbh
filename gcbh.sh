@@ -11,7 +11,6 @@ main(){
       \?|h) print_help ;;
     esac
   done
-
 }
 
 clone_all(){
